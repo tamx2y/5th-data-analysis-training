@@ -1,5 +1,6 @@
 # 5th-Data-Analysis-Training
 > 🦁멋쟁이 사자처럼 데이터 분석 부트캠프 5기 자료 정리
+> 강사: 윤재성 (소프트캠퍼스)
 
 #### 참고자료
 - [멋쟁이 사자처럼 노션](https://likelion.notion.site/5-19e44860a4f4804e8422cfc8496f128b)  
