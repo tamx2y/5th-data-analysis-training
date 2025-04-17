@@ -11,3 +11,4 @@
 5. 파일탐색기에서 SQL을 찾은 뒤, 실행시켜 다음>다음>'Account and Roles'까지 움직인다. 
 6. 비밀번호(자유롭게: 1234)를 설정한 다음 next 버튼을 누른다.
 7. next > next > excute > next > finish
+8. 설치가 완료되면 컴퓨터 시작 > MySQL > MySQL Command Line client > 비밀번호 입력 (1234) > show databases; 로 테스트 하기
