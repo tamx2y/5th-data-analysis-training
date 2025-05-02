@@ -6,7 +6,6 @@ import seaborn as sns
 
 # 그래프 기본 설정
 plt.rcParams['font.family'] = 'Malgun Gothic'
-# plt.rcParams['font.family'] = 'AppleGothic'
 plt.rcParams['figure.figsize'] = 12, 6
 plt.rcParams['font.size'] = 14
 plt.rcParams['axes.unicode_minus'] = False
