@@ -9,3 +9,9 @@ plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['figure.figsize'] = 12, 6
 plt.rcParams['font.size'] = 14
 plt.rcParams['axes.unicode_minus'] = False
+
+# 그래프 기본 테마 설정 
+sns.set()
+
+# 복잡한 통계처리를 위한 라이브러리
+from scipy import stats
